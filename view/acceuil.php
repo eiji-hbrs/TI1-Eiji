@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Acceuil</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 
 <body>
@@ -22,7 +22,7 @@
 
     </header>
 </body>
-<img src="./img/armoiries.jpg" alt="armoiries">
+<img src="./img/armoiries.png" alt="armoiries">
 
 <main>
     <p>Budapest (prononcé [by.da.ˈpɛst] , hongrois : Budapest [ˈbu.dɒ.pɛʃt] Écouter ; allemand : Budapest ou anciennement Ofen-Pesth) est la plus grande ville et la capitale de la Hongrie. Elle se situe en aval du coude du Danube entre le massif de Transdanubie et l'Alföld. Ses habitants sont les Budapestois (en hongrois, budapesti, -ek).

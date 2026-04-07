@@ -1,4 +1,3 @@
-<di>
-        <img src="../img/banniere.jpg" alt="bannière">
+<div>
         <h1>budapest</h1>
 </div>
