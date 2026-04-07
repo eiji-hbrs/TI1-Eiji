@@ -1,15 +1,15 @@
 <?php
-echo "Ceci est notre CF
-path : ".__dir__;
 
-require_once"../config.php";
+require_once "../config.php";
 
-echo "Racine du projet".ROOT_PATH."";
-
-echo "<pre>";
-print_r(ARRAY_VALID_PAGES);
-echo "</pre>";
-
-if (!isset($_GET["p"])) {
+if (!isset($_GET["pages"])) {
     include ROOT_PATH."/view/acceuil.php";
-} 
+}else{
+    echo $_GET['pages'];
+
+}elseif (in_array($_GET('pages'), ARRAY_VALID_PAGES)) {
+    include ROOT_PATH.'/view/'. $_GET['pages'] .'php';
+
+}else{
+    include ROOT_PATH.'/view/erreur404.php';
+}
