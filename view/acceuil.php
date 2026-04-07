@@ -11,17 +11,17 @@
 <body>
     <header>
     <?php
-    include ROOT_PATH. "/inc/entete.php";
+    include ROOT_PATH . "/view/inc/entete.php";
     ?>
 
-    <p>Bienvenue sur notre site consacré à Bruxelles.</p>
+    <h2>Bienvenue sur notre site consacré à Bruxelles.</h2>
 
     <?php
-    include ROOT_PATH. "/inc/menu.php";
+    include ROOT_PATH . "/view/inc/menu.php";
     ?>
     </header>
 </body>
-<img src="../img/armoiries.jpg" alt="armoiries">
+<img src="./img/armoiries.jpg" alt="armoiries">
 
 <main>
     <p>Budapest (prononcé [by.da.ˈpɛst] , hongrois : Budapest [ˈbu.dɒ.pɛʃt] Écouter ; allemand : Budapest ou anciennement Ofen-Pesth) est la plus grande ville et la capitale de la Hongrie. Elle se situe en aval du coude du Danube entre le massif de Transdanubie et l'Alföld. Ses habitants sont les Budapestois (en hongrois, budapesti, -ek).

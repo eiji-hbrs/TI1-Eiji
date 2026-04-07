@@ -4,8 +4,6 @@ require_once "../config.php";
 
 if (!isset($_GET["pages"])) {
     include ROOT_PATH."/view/acceuil.php";
-}else{
-    echo $_GET['pages'];
 
 }elseif (in_array($_GET('pages'), ARRAY_VALID_PAGES)) {
     include ROOT_PATH.'/view/'. $_GET['pages'] .'php';
