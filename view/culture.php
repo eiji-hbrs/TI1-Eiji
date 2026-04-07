@@ -138,47 +138,48 @@
         Personnalités liées à la ville
 
         À Budapest sont nés :
-
-        Ignace Philippe Semmelweis (1818-1865), médecin obstétricien dit, "Le sauveur des mères"
-        Theodor Herzl (1860-1904), écrivain d'origine juive, théoricien du sionisme.
-        Franz Tangl (1866-1917), médecin physio-pathologiste.
-        Felix Salten (1869-1945), écrivain autrichien.
-        Harry Houdini (1874–1926), prestidigitateur américain.
-        Michael Curtiz (1886-1962), cinéaste américain, d'origine hongroise.
-        Jules Freund (1890-1960), immunologiste.
-        André Kertész (1894-1985), photographe.
-        Paul Lukas (1895-1971), acteur américain, d'origine hongroise.
-        László Benedek (1905–1992), réalisateur.
-        Charles Rohonyi (1906-1998), graphiste et affichiste, actif en Belgique.
-        Sándor Svéd (1906-1979, baryton hongrois.
-        Elza Brandeisz (1907-2018), danseuse et Juste parmi les nations.
-        Georg Solti (1912-1997), un des grands chefs d'orchestre de sa génération.
-        Angelo Brelich (1913-1977), historien des religions naturalisé italien.
-        Ferenc Fricsay (1914-1963), autre célèbre chef d'orchestre hongrois, naturalisé autrichien en 1958.
-        Peter Foldes (1924–1977), réalisateur de films d'animation
-        Elek Bacsik (1926–1993), violoniste et guitariste de jazz.
-        Melinda Kistétényi (1926-1999), organiste et compositrice hongroise.
-        Ferenc Puskás (1927-2006), footballeur.
-        Erzsi Kovács (1928-2014), chanteuse de musique pop.
-        Imre Kertész (1929-), écrivain, prix Nobel de littérature 2002.
-        Catherine Schell (1944-), actrice.
-        Miklós Perényi (1948), violoncelliste.
-        Tommy Ramone (1952-2014), batteur et producteur de musique américain d'origine hongroise.
-        Xaver Varnus (1964), organiste hongro-canadien.
-        Roby Lakatos (1965-), violoniste.
-        Tibor Mende (1915-1984), journaliste et essayiste français d'origine hongroise.
-        András Sárközy (1941-), mathématicien.
-        György Kovásznai (1934-1983), artiste contemporain.
-        Amrita Sher-Gil (1913-1941), peintre indienne.
-        Ilona Staller surnommée la « Cicciolina » (1951-), actrice de films pornographiques, chanteuse et femme
+    <ul>
+        <li>Ignace Philippe Semmelweis (1818-1865), médecin obstétricien dit, "Le sauveur des mères"</li>
+        <li>Theodor Herzl (1860-1904), écrivain d'origine juive, théoricien du sionisme.</li>
+        <li>Franz Tangl (1866-1917), médecin physio-pathologiste.</li>
+        <li>Felix Salten (1869-1945), écrivain autrichien.</li>
+        <li>Harry Houdini (1874–1926), prestidigitateur américain.</li>
+        <li>Michael Curtiz (1886-1962), cinéaste américain, d'origine hongroise.</li>
+        <li>Jules Freund (1890-1960), immunologiste.</li>
+        <li>André Kertész (1894-1985), photographe.</li>
+        <li>Paul Lukas (1895-1971), acteur américain, d'origine hongroise.</li>
+        <li>László Benedek (1905–1992), réalisateur.</li>
+        <li>Charles Rohonyi (1906-1998), graphiste et affichiste, actif en Belgique.</li>
+        <li>Sándor Svéd (1906-1979), baryton hongrois.</li>
+        <li>Elza Brandeisz (1907-2018), danseuse et Juste parmi les nations.</li>
+        <li>Georg Solti (1912-1997), un des grands chefs d'orchestre de sa génération.</li>
+        <li>Angelo Brelich (1913-1977), historien des religions naturalisé italien.</li>
+        <li>Ferenc Fricsay (1914-1963), autre célèbre chef d'orchestre hongrois, naturalisé autrichien en 1958.</li>
+        <li>Peter Foldes (1924–1977), réalisateur de films d'animation</li>
+        <li>Elek Bacsik (1926–1993), violoniste et guitariste de jazz.</li>
+        <li>Melinda Kistétényi (1926-1999), organiste et compositrice hongroise.</li>
+        <li>Ferenc Puskás (1927-2006), footballeur.</li>
+        <li>Erzsi Kovács (1928-2014), chanteuse de musique pop.</li>
+        <li>Imre Kertész (1929-), écrivain, prix Nobel de littérature 2002.</li>
+        <li>Catherine Schell (1944-), actrice.</li>
+        <li>Miklós Perényi (1948), violoncelliste.</li>
+        <li>Tommy Ramone (1952-2014), batteur et producteur de musique américain d'origine hongroise.</li>
+        <li>Xaver Varnus (1964), organiste hongro-canadien.</li>
+        <li>Roby Lakatos (1965-), violoniste.</li>
+        <li>Tibor Mende (1915-1984), journaliste et essayiste français d'origine hongroise.</li>
+        <li>András Sárközy (1941-), mathématicien.</li>
+        <li>György Kovásznai (1934-1983), artiste contemporain.</li>
+        <li>Amrita Sher-Gil (1913-1941), peintre indienne.</li>
+        <li>Ilona Staller surnommée la « Cicciolina » (1951-), actrice de films pornographiques, chanteuse et femme
         politique italienne.
-        Klára Ungár (1958-), femme politique hongroise,
-        Károly Vekov (1947-), homme politique et historien.
-        Helga Váradi (1986-), musicienne classique
-        Barbara Palvin (1993-), mannequin
-        Ágnes Keleti (1921-), ancienne gymnaste hongroise.
-        Franz Jalics (1927-2021), Prêtre jésuite et écrivain hongrois.
-
+        politique italienne.</li>
+        <li>Klára Ungár (1958-), femme politique hongroise,</li>
+        <li>Károly Vekov (1947-), homme politique et historien.</li>
+        <li>Helga Váradi (1986-), musicienne classique</li>
+        <li>Barbara Palvin (1993-), mannequin</li>
+        <li>Ágnes Keleti (1921-), ancienne gymnaste hongroise.</li>
+        <li>Franz Jalics (1927-2021), Prêtre jésuite et écrivain hongrois.</li>  
+    </ul>
     </main>
 </body>
 

@@ -14,8 +14,6 @@
     include ROOT_PATH . "/view/inc/entete.php";
     ?>
 
-    
-
     <?php
     include ROOT_PATH . "/view/inc/menu.php";
     ?>

@@ -24,11 +24,16 @@
         <div class="galerie">
             <img src="./img/480px_Budapest_Hungary.jpg" alt=>
             <img src="./img/480px_Budapest_National_Theatre.jpg">
+        </div>    
+        <div class="galerie">
             <img src="./img/480px_Budapest_Obuda_town_hall.jpg">
             <img src="./img/480px_PestiVigadoFotoThalerTamas.jpg">
+        </div>
+        <div class="galerie">
             <img src="./img/480px_Szabadság_híd.jpg">
             <img src="./img/480px_Vajdahunyad_vára">
-        </div>    
+        </div>     
+            
     </main>
 </body>
 </html>
