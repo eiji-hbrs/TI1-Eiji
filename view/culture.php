@@ -11,13 +11,13 @@
 <body>
     <header>
         <?php
-        include ROOT_PATH . "/inc/entete.php";
+        include ROOT_PATH . "/view/inc/entete.php";
         ?>
 
         <h2>Art et culture</h2>
 
         <?php
-        include ROOT_PATH . "/inc/menu.php";
+        include ROOT_PATH . "/view/inc/menu.php";
         ?>
     </header>
 

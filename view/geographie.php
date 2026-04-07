@@ -10,10 +10,14 @@
 
 <header>
     <?php
-    include ROOT_PATH. "/inc/entete.php";
+    include ROOT_PATH . "/view/inc/entete.php";
     ?>
+
     <h2>Géographie</h2>
-    <img src="../img/geographie" alt="">
+
+    <?php
+    include ROOT_PATH . "/view/inc/menu.php";
+    ?>
 
 </header>  
 

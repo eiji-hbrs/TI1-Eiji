@@ -10,13 +10,13 @@
 <body>
     <header>
         <?php
-    include ROOT_PATH. "/inc/entete.php";
+    include ROOT_PATH . "/view/inc/entete.php";
     ?>
     
     <h2>Pour nous contacter</h2>
 
         <?php
-    include ROOT_PATH."/inc/menu.php";
+    include ROOT_PATH . "/view/inc/menu.php";
     ?>
     </header>
         <img src="../img/contact.jpg" alt="contact">
