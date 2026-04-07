@@ -4,39 +4,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nous contacter</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="./css/style.css">
 
 </head>
 <body>
     <header>
         <?php
     include ROOT_PATH . "/view/inc/entete.php";
-    ?>
-    
-    <h2>Pour nous contacter</h2>
-
+    ?> 
+ 
         <?php
     include ROOT_PATH . "/view/inc/menu.php";
     ?>
     </header>
-        <img src="../img/contact.jpg" alt="contact">
+        <img src="../img/contacts.jpg" alt="contact">
 
     <main>
+
+       <h2>Pour nous contacter</h2>
+
         <p>Pour nous laisser un comentaire ou pour obtenir un renseignement complémentaire, remplissez le formulaire ci-dessous :</p>
 
         <form action="">
-            <label for="nom">NOM :</label>
-            <input type="text" name="nom" value="nom">
-            <label for="prenom">PRENOM :</label>
-            <input type="text" name="prenom" value="prenom">
-            <label for="ville">VILLE :</label>
-            <input type="text" name="ville" value="ville">
-            <label for="emai">E-MAIL :</label>
-            <input type="email" name="email" value="email">
-            <label for="commentaire">COMMENTAIRES :</label>
-            <input type="textarea" name="commentaire" value="commentaire">
-
-            <input type="submit" name="submit" value="Envoyer votre message">
+            <table>
+                    <tr>      
+                        <th><label for="nom">NOM :</label></th>
+                        <th><input type="text" name="nom" value="Entrez votre nom ..."></th>
+                    </tr>          
+                    <tr>    
+                        <th><label for="prenom">PRENOM :</label></th>
+                        <th><input type="text" name="prenom" value="Entrez votre prenom ..."></th>
+                    </tr>
+                    <tr>     
+                        <th><label for="ville">VILLE :</label></th>
+                        <th><input type="text" name="ville" value="Quelle est votre ville ..."></th>
+                    </tr> 
+                    <tr>   
+                        <th><label for="emai">E-MAIL :</label></th>
+                        <th><input type="email" name="email" value="Entrez votre email ..."></th>
+                    </tr> 
+                    <tr>          
+                        <th><label for="commentaire">COMMENTAIRES :</label></th>
+                        <th><input type="textarea" name="commentaire" value="Entrez votre commentaire ..."></th>
+                    </tr>
+                    <tr>
+                        <th><input type="submit" name="submit" value="Envoyer votre message"></th>
+                    </tr>
+            </table>
         </form>
     </main>
 </body>

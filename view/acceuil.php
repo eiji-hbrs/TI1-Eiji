@@ -14,7 +14,7 @@
     include ROOT_PATH . "/view/inc/entete.php";
     ?>
 
-    <h2>Bienvenue sur notre site consacré à Bruxelles.</h2>
+    
 
     <?php
     include ROOT_PATH . "/view/inc/menu.php";
@@ -22,6 +22,9 @@
 
     </header>
 </body>
+
+<h2>Bienvenue sur notre site consacré à Bruxelles.</h2>
+
 <img src="./img/armoiries.png" alt="armoiries">
 
 <main>
@@ -34,6 +37,16 @@
     Plus grande ville du pays, elle en est le principal centre politique, culturel, commercial et industriel. Elle abrite le Parlement hongrois, les bâtiments ministériels et les ambassades du pays ainsi que les sièges sociaux des entreprises installées en Hongrie. Son ancien statut de cocapitale de l'Autriche-Hongrie lui confère un rayonnement important dans la Mitteleuropa. La partition du royaume de Hongrie à la suite du traité de Trianon en 1920 en fait une ville démesurée pour la Hongrie dans ses frontières actuelles. La macrocéphalie dont est atteinte la ville se concrétise par la convergence de la plupart des réseaux routiers et ferroviaires du pays en son centre et des écarts démographiques et économiques disproportionnés entre la capitale et la province (près de 20 % de la population hongroise est budapestoise). Avec ses 1 702 297 habitants (l'aire urbaine en compte 2 524 697), Budapest est également la deuxième ville la plus peuplée d'Europe centrale, Berlin étant la première. Elle en est également considérée du point de vue des échanges économiques comme une importante plaque tournante. En effet, la capitale hongroise se trouve à 161 km à l'est-sud-est de Bratislava, à 214 km à l'est-sud-est de Vienne, à 441 km au sud-est de Prague, à 545 km au sud-sud-ouest de Varsovie et à 688 km au sud-est de Berlin. Budapest est en outre située à 1 244 km à l'est de Paris. La ville abrite le siège de l'Institut européen d'innovation et de technologie (IET).
     </p>
 
-<a href="https://fr.wikipedia.org/wiki/Budapest">Sources : Wikipédia - Ville de Budapest</a>
+    <p>
+        Dans ce site, vous trouverez diverses informations concernant:<br>
+            
+            <a href="./?pages=geographie" class="lienAcceuil">Une brève présentation de Budapset sur le rôle en Hongrie </a>
+            <a href="./?pages=histoire" class="lienAcceuil">Un rappel historique, de sa fondation à aujourd'hui</a>
+            <a href="./?pages=culture" class="lienAcceuil">Un tour d'horizon en matière d'art et de culture</a>
+            <a href="./?pages=galerie" class="lienAcceuil">Une galerie de photographies</a>
+            <a href="./?pages=contact" class="lienAcceuil"> Un formulaire pour nous contacter</a>
+            <a href="./?pages=liens" class="lienAcceuil">Des liens vers des sites partenaires</a>
+    </p>
+<a class="wiki" href="https://fr.wikipedia.org/wiki/Budapest">Sources : Wikipédia - Ville de Budapest</a>
 </main>
 </html>

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Liens</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
     <header>
@@ -12,14 +12,15 @@
     include ROOT_PATH . "/view/inc/entete.php";
     ?>
 
-    <h2>Quelques liens vers nos partenaires.</h2>
-
     <?php
     include ROOT_PATH . "/view/inc/menu.php";
     ?>
 
     </header>
-        <img src="./img/lien.jpg" alt="Liens">
+
+    <h2>Quelques liens vers nos partenaires.</h2>
+
+    <img src="../img/liens.jpg" alt="Liens">
 
     <main>
         <table>
@@ -31,7 +32,7 @@
             <tr>
                 <td><a href="#">Vienne</a></td>
                 <td><a href="#">Prague</a></td>
-                <td><a href="#"></a>Varsovie</td>
+                <td><a href="#">Varsovie</a></td>
             </tr>
             <tr>
                 <td><a href="#">Paris</a></td>
@@ -50,8 +51,8 @@
             </tr>
             <tr>
                 <td><a href="#">Londres</a></td>
-                <td><a href="#"></a>Athènes</td>
-                <td><a href="#"></a>Budapest</td>
+                <td><a href="#">Athènes</a></td>
+                <td><a href="#">Budapest</a></td>
             </tr>
 
         </table>

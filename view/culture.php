@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Culture</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 
 <body>
@@ -19,7 +19,10 @@
         <?php
         include ROOT_PATH . "/view/inc/menu.php";
         ?>
+        
     </header>
+
+    <img src="../img/culture.jpg" alt="Culture">
 
     <main>
         Budapest compte un grand nombre de salles de cinéma, dont plusieurs établissements indépendants. Parmi les

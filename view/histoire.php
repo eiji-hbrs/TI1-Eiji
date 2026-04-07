@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Histoire</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 
 <body>
@@ -14,14 +14,15 @@
         include ROOT_PATH . "/view/inc/entete.php";
         ?>
 
-        <h2>Histoire</h2>
-
         <?php
         include ROOT_PATH . "/view/inc/menu.php";
         ?>
 
     </header>
-        <img src="./img/histoires.jpg" alt="Histoire">
+
+        <h2>Histoire</h2>
+
+        <img src="../img/histoire.jpg" alt="Histoire">
     <main>
         <p>
             Les villes de Pest et Buda étaient déjà désignées au début de la Renaissance comme une même entité, capitale
