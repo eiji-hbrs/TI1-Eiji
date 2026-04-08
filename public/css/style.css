@@ -108,8 +108,8 @@ h2{
 main{
     text-align: center;
     padding: 10px;
-    
 }
+
 .corpsCompletAcceuil{
     
     background-color: lightgrey;
@@ -123,6 +123,7 @@ main{
     width: 80%;
     text-align: center;
 }
+
 /* liens de fin de page d'acceuil */
 .lienA {
     text-align: center;
@@ -137,7 +138,6 @@ main{
     display: block;
     color: #a90331;
     text-decoration: none;
-
 }
 
 a:hover{
@@ -168,7 +168,7 @@ a:hover{
 .galerie-box{
     display: flex;
     flex-direction: column;
-    align-items: center;
+
 }
 
 .galerie-box img{

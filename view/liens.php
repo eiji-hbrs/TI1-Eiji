@@ -17,7 +17,7 @@
 
     </header>
     <main>
-        <div class="corpsDuText">
+        <div class="corpsDeText">
 
             <?php
             include ROOT_PATH . "/view/inc/menu.php";

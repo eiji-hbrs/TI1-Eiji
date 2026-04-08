@@ -69,7 +69,7 @@
                     (IET).</P>
 
             <div class="lienA">
-                <p class>Dans ce site, vous trouverez diverses informations concernant:</p>
+                <p>Dans ce site, vous trouverez diverses informations concernant:</p>
                 <a href="./?pages=geographie" class="lienAcceuil">Une brève présentation de Budapset sur le rôle en
                     Hongrie </a>
                 <a href="./?pages=histoire" class="lienAcceuil">Un rappel historique, de sa fondation à aujourd'hui</a>
