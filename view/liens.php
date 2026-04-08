@@ -20,11 +20,11 @@
 
 <div class="corpsComplet">   
     
-    <main>
+    
         <h2>Quelques liens vers nos partenaires.</h2>
 
-        <img src="../img/liens.jpg" alt="Liens">
-
+        <img class="imgliens" src="../img/liens.jpg" alt="Liens">
+    <main>
         <table>
             <tr>
                 <td><a href="#">Berlin</a></td>

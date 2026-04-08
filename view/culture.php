@@ -23,43 +23,43 @@
 
     <div class="corpsComplet">   
 
-    <main>
+    
         <h2>Art et culture</h2>
 
-    <img src="../img/culture.jpg" alt="Culture">
-
-        Budapest compte un grand nombre de salles de cinéma, dont plusieurs établissements indépendants. Parmi les
+    <img class="imgCulture" src="../img/culture.jpg" alt="Culture">
+    <main>
+        <p>Budapest compte un grand nombre de salles de cinéma, dont plusieurs établissements indépendants. Parmi les
         cinémas les plus emblématiques de l'histoire de Budapest figurent le cinéma Puskin, le cinéma national Uránia
         (Uránia Nemzeti Filmszínház) ou encore le palais du film Corvin (Corvin Budapest Filmpalota). Ce dernier a
         notamment été un théâtre important de l'Insurrection de Budapest en 1956. Il existe également plusieurs cinémas
         de plein-air dans Budapest, à l'instar de celui de Margit-sziget ou celui du Szimpla Kert. Enfin, de nombreux
         grands complexes de cinémas sont apparus dans les quartiers périphériques de la ville, en particulier dans les
-        centres commerciaux ouverts après la fin du communisme.
+        centres commerciaux ouverts après la fin du communisme.</p>
 
-        La capitale hongroise compte de nombreux théâtres édifiés en grande partie aux xixe et xxe siècles. Parmi
+        <p>La capitale hongroise compte de nombreux théâtres édifiés en grande partie aux xixe et xxe siècles. Parmi
         ceux-ci, les plus connus sont le József Attila Színház, le Katona József Színház, le Madách Színház, le Pesti
         Vigadó, le Radnóti Miklós Színház et le Vígszínház. Symbole du développement de Budapest vers le sud, à
         proximité du pont Lágymányosi, le nouveau Théâtre national (Nemzeti Színház) de Hongrie est également une
         illustration du renouvellement architectural hongrois. Imposant bâtiment aux éléments classiques inauguré en
         2002 au bord du Danube, il est l'héritier de l'ancien théâtre national situé Blaha Lujza tér et détruit à la
-        suite de la construction de la ligne (M) (2) du métro de Budapest.
+        suite de la construction de la ligne (M) (2) du métro de Budapest.</p>
 
-        Budapest possède deux orchestres symphoniques, l'orchestre de la Société philharmonique de Budapest et
+        <p>Budapest possède deux orchestres symphoniques, l'orchestre de la Société philharmonique de Budapest et
         l'Orchestre du Festival de Budapest. Outre la salle Art nouveau de l'Académie de musique Franz-Liszt, Budapest
         dispose d'une nouvelle salle de concert (Palais des arts, en hongrois Művészetek Palotája, dit MŰPA) inaugurée
         en 2005. L'Opéra national de Budapest défend le répertoire hongrois de ballet et d'opéra (Ferenc Erkel, Károly
         Goldmark, Ernst von Dohnányi, Béla Bartók, Zoltán Kodály, György Ligeti ou Péter Eötvös pour les plus connus).
         Le Théâtre musical de l'Opérette de Budapest (Budapesti Operettszínház) se consacre quant à lui à un répertoire
-        plus léger.
+        plus léger.</p>
 
-        Musées et galeries d'art
+        <p>Musées et galeries d'art</p>
 
-        La Hongrie fut si longtemps dirigée par des souverains étrangers que Budapest ne possède pas, à la différence
+        <p>La Hongrie fut si longtemps dirigée par des souverains étrangers que Budapest ne possède pas, à la différence
         d'autres capitales européennes, de musée fondé grâce à des collections royales, ce qui n'empêche pas la ville de
         posséder plus de soixante musées et galeries offrant des collections variées, d'envergure nationale et
-        internationale ou plus simplement d'intérêt local.
+        internationale ou plus simplement d'intérêt local.</p>
 
-        Le Musée des Arts décoratifs est installé dans un bâtiment emblématique de la Sécession en Hongrie qui fut
+        <p>Le Musée des Arts décoratifs est installé dans un bâtiment emblématique de la Sécession en Hongrie qui fut
         construit par Gyula Pártos et Ödön Lechner.
         La plupart des musées et galeries de Budapest occupent des bâtiments historiques. Certains sont regroupés au
         château de Buda comme la Galerie nationale hongroise, le Musée historique de Budapest ; d'autres autour de Hősök
@@ -70,22 +70,22 @@
         romantisme hongrois, c'est de ses marches que fut déclenchée la Révolution hongroise de 1848 à l'appel de Sándor
         Petőfi. En face du Parlement hongrois, le Musée ethnographique restitue quant à lui le folklore de la plaine des
         Carpates, des instruments de musique au mobilier paysan. De nombreuses expositions temporaires rappellent le
-        lien qui unit les Magyars aux autres peuples finno-ougriens.
+        lien qui unit les Magyars aux autres peuples finno-ougriens.</p>
 
-        Quelques musées sont liés aux personnalités liées à Budapest, à l'instar de Béla Bartók, Endre Ady, Franz Liszt
+        <p>Quelques musées sont liés aux personnalités liées à Budapest, à l'instar de Béla Bartók, Endre Ady, Franz Liszt
         ou Ignace Philippe Semmelweis. Parmi les projets concrétisés après le communisme, Budapest compte également une
         Maison de la terreur (Terror Háza) située dans les anciens locaux de la Gestapo et de la Stasi et qui retrace
         les exactions commises par les régimes national-socialiste et communiste, ainsi qu'un Memento Park, qui abrite à
-        quelques kilomètres de la capitale les nombreuses statues à la gloire du communisme, déboulonnées après 1989.
+        quelques kilomètres de la capitale les nombreuses statues à la gloire du communisme, déboulonnées après 1989.</p>
 
-        Le projet de quartier des musées (Múzeum negyed), lancée en 2014 sur le modèle berlinois de l'Île aux Musées,
+        <p>Le projet de quartier des musées (Múzeum negyed), lancée en 2014 sur le modèle berlinois de l'Île aux Musées,
         prévoit le rassemblement d'un nombre important de lieux d'exposition dans le Városliget, prévoyant entre autres
         le rapatriement du Musée hongrois de la photographie de Kecskemét à Budapest et la reconstruction du musée des
-        transports selon son aspect d'origine.
+        transports selon son aspect d'origine.</p>
 
-        Bibliothèques
+        <p>Bibliothèques</p>
 
-        Budapest abrite la Bibliothèque nationale Széchényi au cœur du Château de Buda. L'une de ses missions est de
+        <p>Budapest abrite la Bibliothèque nationale Széchényi au cœur du Château de Buda. L'une de ses missions est de
         collecter les Hungarica, à savoir les ouvrages publiés dans les frontières actuelles de la Hongrie (quelle que
         soit la langue), les ouvrages en hongrois, les ouvrages publiés par des Hongrois et les ouvrages traitant de la
         Hongrie. Elle conserve environ sept millions de pièces, dont deux millions de livres et plus d’un million de
@@ -95,27 +95,27 @@
         Bibliotheca Corviniana et de très nombreux manuscrits historiques et littéraires. Son autre mission est de
         centraliser des services pour l'ensemble des bibliothèques hongroises (attribution des ISBN et ISSN, rédaction
         de la bibliographie nationale, catalogues collectifs, tenue à jour de la liste des bibliothèques hongroises,
-        etc.).
+        etc.).</p>
 
-        La Bibliothèque métropolitaine Ervin Szabó est la bibliothèque municipale de Budapest. Elle se situe à proximité
+        <p>La Bibliothèque métropolitaine Ervin Szabó est la bibliothèque municipale de Budapest. Elle se situe à proximité
         du quartier étudiant à Pest. Parmi les bibliothèques les plus importantes de la capitale, on peut également
         citer celles des instituts scientifiques, à l'instar de la bibliothèque de l'Académie hongroise des sciences,
         celle de l'Université Loránd Eötvös ou encore les fonds de l'Open Society à l'Université d'Europe centrale. Le
-        Parlement hongrois compte également son propre fond accessible au public.
+        Parlement hongrois compte également son propre fond accessible au public.</p>
 
-        Quant aux Archives nationales hongroises, elles se situent à proximité de la Porte de Vienne (Bécsi kapu), dans
-        le quartier du château de Buda, dans le 1er arrondissement.
+        <p>Quant aux Archives nationales hongroises, elles se situent à proximité de la Porte de Vienne (Bécsi kapu), dans
+        le quartier du château de Buda, dans le 1er arrondissement.</p>
 
-        Monuments historiques
+        <p>Monuments historiques</p>
 
-        Château de Vajdahunyad.
+        <p>Château de Vajdahunyad.</p><br>
         le Margit-sziget s'étend sur le Danube entre le Árpád híd et le Margit híd ; cette île accueille des terrains de
         sport, la piscine Palatinus et un hôtel de haut standing. Elle est considérée comme un poumon vert du fait de sa
         position centrale dans la ville ;
         le Gellért-hegy se situe en face du Erzsébet híd, du côté de Buda. Il s'agit d'une colline sur laquelle est
-        aménagé un immense parcours boisé menant à la citadelle ;
+        aménagé un immense parcours boisé menant à la citadelle ;<p></p>
 
-        le Városliget (« bois de la ville ») couvre 120 hectares au centre de la ville. Il se situe à proximité d'Hősök
+        <p>le Városliget (« bois de la ville ») couvre 120 hectares au centre de la ville. Il se situe à proximité d'Hősök
         tere et du monument du millénaire. Considéré comme un espace de loisir et de détente privilégié au cœur de la
         capitale, ce parc abrite le Parc animalier et botanique municipal, le Grand cirque métropolitain de Budapest,
         les thermes Széchenyi, le Château de Vajdahunyad avec son étang, le Musée hongrois de la technologie et des
@@ -124,23 +124,23 @@
         Située en marge du centre-ville, l'Óbudai-sziget accueillait jadis les chantiers navals de Budapest. Depuis
         1993, le parc héberge chaque été le Sziget Festival. Enfin, le Népliget (« bois populaire »), également
         excentré, n'en reste pas moins un espace de détente et de divertissement pour de nombreuses familles
-        budapestoises.
+        budapestoises.</p>
 
-        Cinématographie
+        <p>Cinématographie</p>
 
-        Les films les plus connus prenant Budapest pour décors sont Tűzoltó utca 25. (Le 25 de la rue des Sapeurs
+        <p>Les films les plus connus prenant Budapest pour décors sont Tűzoltó utca 25. (Le 25 de la rue des Sapeurs
         (Tüzoltó utca 25.)) et Budapesti mesék (« Contes de Budapest ») d'István Szabó, A Long Weekend in Pest and Buda
         de Károly Makk, Moszkva tér de Ferenc Török, Être sans destin d'Imre Kertész et Kontroll de Nimród Antal. Le
         film d'animation Nyócker ! retrace l'histoire de deux familles rom et roumaine dans le 8e arrondissement de
-        Budapest.
+        Budapest.</p>
 
-        Certains films ont été tournés à Budapest sans pour autant que la ville soit le lieu de l'action ; ainsi, de
+        <p>Certains films ont été tournés à Budapest sans pour autant que la ville soit le lieu de l'action ; ainsi, de
         nombreuses scènes de Spy Game, jeu d'espions ont été tournées à Budapest alors que l'action se déroule à
-        Berlin-Est.
+        Berlin-Est.</p>
 
-        Personnalités liées à la ville
+        <p>Personnalités liées à la ville</p>
 
-        À Budapest sont nés :
+        <p>À Budapest sont nés :</p>
     <ul>
         <li>Ignace Philippe Semmelweis (1818-1865), médecin obstétricien dit, "Le sauveur des mères"</li>
         <li>Theodor Herzl (1860-1904), écrivain d'origine juive, théoricien du sionisme.</li>
