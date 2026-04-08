@@ -8,8 +8,10 @@
 
 </head>
 <body>
-    <img src="./img/404.jpg" alt="erreur_404">
+    <div class="erreur404">
+    <img class="imgErreur" src="./img/404.jpg" alt="erreur_404">
 
-    <a href="acceuil.php">Retour à la page d'acceuil</a>
+    <a class="retourAcceuil" href="acceuil.php">Retour à la page d'acceuil</a>
+    </div>
 </body>
 </html>
