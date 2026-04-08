@@ -17,27 +17,47 @@
     </header>
     <main>
         <div class="corpsDeText">
-        <?php
-        include ROOT_PATH . "/view/inc/menu.php";
-        ?>
+            <?php
+            include ROOT_PATH . "/view/inc/menu.php";
+            ?>
 
-        <div class="corpsComplet">
-            <h2>Galerie Photo</h2>
-            
+            <div class="corpsComplet">
+                <h2>Galerie Photo</h2>
+
                 <div class="galerie">
-                    <img src="./img/480px_Budapest_Hungary.jpg" alt=>
-                    <img src="./img/480px_Budapest_National_Theatre.jpg">
+                    <div>
+                        <div class="galerie-box">
+                            <img src="./img/480px_Budapest_Hungary.jpg">
+                            <p>Budapest_Hungary</p>
+                        </div>
+                        <div class="galerie-box">
+                            <img src="./img/480px_Budapest_National_Theatre.jpg">
+                            <p>Budapest_National_Theatre</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="galerie-box">
+                            <img src="./img/480px_Budapest_Obuda_town_hall.jpg">
+                            <p>Budapest_Obuda_town_hall</p>
+                        </div>
+                        <div class="galerie-box">
+                            <img src="./img/480px_PestiVigadoFotoThalerTamas.jpg">
+                            <p>PestiVigadoFotoThalerTamas</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="galerie-box">
+                            <img src="./img/480px_Szabadság_híd.jpg">
+                            <p>Szabadság_híd</p>
+                        </div>
+                        <div class="galerie-box">
+                            <img src="./img/480px_Vajdahunyad_vára">
+                            <p>Vajdahunyad</p>
+                        </div>
+                    </div>
                 </div>
-                <div class="galerie">
-                    <img src="./img/480px_Budapest_Obuda_town_hall.jpg">
-                    <img src="./img/480px_PestiVigadoFotoThalerTamas.jpg">
-                </div>
-                <div class="galerie">
-                    <img src="./img/480px_Szabadság_híd.jpg">
-                    <img src="./img/480px_Vajdahunyad_vára">
-                </div>
+            </div>
         </div>
-    </div>    
     </main>
 </body>
 

@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="./css/style.css">
 
 </head>
-
+<body>
+    
 <header>
     <?php
     include ROOT_PATH . "/view/inc/entete.php";
