@@ -1,5 +1,4 @@
 <nav>
-    <img src="../img/" alt="menu burger">
         <ul>
             <li><a href="./">Acceuil</a></li>
             <li><a href="./?pages=geographie">Géographie</a></li>
