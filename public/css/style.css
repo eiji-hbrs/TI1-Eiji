@@ -127,12 +127,18 @@ main{
     text-align: center;
 }
 
+.lineA, p{
+    display: inline-block;
+    text-align: center;
+}
+
 .lienA a{
     display: block;
     color: #a90331;
     text-decoration: none;
 
 }
+
 
 a:hover{
     color: black;
