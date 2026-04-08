@@ -17,13 +17,16 @@
         
 
     </header>
-<?php
+    <?php
         include ROOT_PATH . "/view/inc/menu.php";
         ?>
+       
+       <div class="corpsComplet">   
+
+    <main>
         <h2>Histoire</h2>
 
         <img src="../img/histoire.jpg" alt="Histoire">
-    <main>
         <p>
             Les villes de Pest et Buda étaient déjà désignées au début de la Renaissance comme une même entité, capitale
             et siège de la Cour du Royaume de Hongrie. Pest étant plus grande que Buda, le nom utilisé alors sur les
@@ -135,7 +138,7 @@
 
         </p>
     </main>
-
+</div>
 </body>
 
 </html>

@@ -18,11 +18,13 @@
     include ROOT_PATH . "/view/inc/menu.php";
     ?>
 
-    <h2>Quelques liens vers nos partenaires.</h2>
-
-    <img src="../img/liens.jpg" alt="Liens">
-
+<div class="corpsComplet">   
+    
     <main>
+        <h2>Quelques liens vers nos partenaires.</h2>
+
+        <img src="../img/liens.jpg" alt="Liens">
+
         <table>
             <tr>
                 <td><a href="#">Berlin</a></td>
@@ -54,8 +56,8 @@
                 <td><a href="#">Athènes</a></td>
                 <td><a href="#">Budapest</a></td>
             </tr>
-
         </table>
     </main>
+    </div>
 </body>
 </html>

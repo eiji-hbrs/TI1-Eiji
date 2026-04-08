@@ -14,13 +14,14 @@
 
     
     </header>
-<?php
+    <?php
     include ROOT_PATH . "/view/inc/menu.php";
     ?>
     
-    <h2>Galerie Photo</h2>
-
+    
+    <div class="corpsComplet">   
     <main>
+        <h2>Galerie Photo</h2>
         <div class="galerie">
             <img src="./img/480px_Budapest_Hungary.jpg" alt=>
             <img src="./img/480px_Budapest_National_Theatre.jpg">
@@ -33,7 +34,7 @@
             <img src="./img/480px_Szabadság_híd.jpg">
             <img src="./img/480px_Vajdahunyad_vára">
         </div>     
-            
+        </div>
     </main>
 </body>
 </html>

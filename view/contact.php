@@ -19,11 +19,14 @@
     </header>
         <?php
         include ROOT_PATH . "/view/inc/menu.php";
-        ?>    
+        ?> 
+<div class="corpsComplet">   
     <main>
-    <img src="../img/contacts.jpg" alt="contact">
+    
 
         <h2>Pour nous contacter</h2>
+
+        <img src="../img/contacts.jpg" alt="contact">
 
         <p>Pour nous laisser un comentaire ou pour obtenir un renseignement complémentaire, remplissez le formulaire
             ci-dessous :</p>
@@ -56,6 +59,7 @@
             </table>
         </form>
     </main>
+    </div>
 </body>
 
 </html>

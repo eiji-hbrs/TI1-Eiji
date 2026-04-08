@@ -13,18 +13,21 @@
         <?php
         include ROOT_PATH . "/view/inc/entete.php";
         ?>
-
-        <h2>Art et culture</h2>
-
-        
-        
+     
     </header>
-<?php
+
+
+    <?php
         include ROOT_PATH . "/view/inc/menu.php";
         ?>
-    <img src="../img/culture.jpg" alt="Culture">
+
+    <div class="corpsComplet">   
 
     <main>
+        <h2>Art et culture</h2>
+
+    <img src="../img/culture.jpg" alt="Culture">
+
         Budapest compte un grand nombre de salles de cinéma, dont plusieurs établissements indépendants. Parmi les
         cinémas les plus emblématiques de l'histoire de Budapest figurent le cinéma Puskin, le cinéma national Uránia
         (Uránia Nemzeti Filmszínház) ou encore le palais du film Corvin (Corvin Budapest Filmpalota). Ce dernier a
@@ -181,6 +184,7 @@
         <li>Franz Jalics (1927-2021), Prêtre jésuite et écrivain hongrois.</li>  
     </ul>
     </main>
+    </div>
 </body>
 
 </html>
