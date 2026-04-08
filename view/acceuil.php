@@ -21,7 +21,7 @@
     include ROOT_PATH . "/view/inc/menu.php";
     ?>
 
-<div class="acceuilComplet">
+<div class="corpsComplet">
 <main>
         <h2>Bienvenue sur notre site consacré à Bruxelles.</h2>
 

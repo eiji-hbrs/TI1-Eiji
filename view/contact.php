@@ -15,13 +15,13 @@
         include ROOT_PATH . "/view/inc/entete.php";
         ?>
 
+
+    </header>
         <?php
         include ROOT_PATH . "/view/inc/menu.php";
-        ?>
-    </header>
-    <img src="../img/contacts.jpg" alt="contact">
-
+        ?>    
     <main>
+    <img src="../img/contacts.jpg" alt="contact">
 
         <h2>Pour nous contacter</h2>
 

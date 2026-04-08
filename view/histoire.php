@@ -14,12 +14,12 @@
         include ROOT_PATH . "/view/inc/entete.php";
         ?>
 
-        <?php
-        include ROOT_PATH . "/view/inc/menu.php";
-        ?>
+        
 
     </header>
-
+<?php
+        include ROOT_PATH . "/view/inc/menu.php";
+        ?>
         <h2>Histoire</h2>
 
         <img src="../img/histoire.jpg" alt="Histoire">

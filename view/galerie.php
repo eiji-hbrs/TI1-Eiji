@@ -12,11 +12,11 @@
     include ROOT_PATH . "/view/inc/entete.php";
     ?>
 
-    <?php
+    
+    </header>
+<?php
     include ROOT_PATH . "/view/inc/menu.php";
     ?>
-
-    </header>
     
     <h2>Galerie Photo</h2>
 

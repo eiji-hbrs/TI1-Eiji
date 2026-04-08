@@ -16,12 +16,12 @@
 
         <h2>Art et culture</h2>
 
-        <?php
-        include ROOT_PATH . "/view/inc/menu.php";
-        ?>
+        
         
     </header>
-
+<?php
+        include ROOT_PATH . "/view/inc/menu.php";
+        ?>
     <img src="../img/culture.jpg" alt="Culture">
 
     <main>
