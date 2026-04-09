@@ -18,10 +18,10 @@
 <main>
     <div class="corpsDeText">
         <?php
-        include ROOT_PATH . "/view/inc/menu.php";
+        include ROOT_PATH . "/view/inc/menu-burger.php";
         ?>
 
-        <div class="corpsCompletAcceuil">
+        <div class="corpsComplet">
             
                 <h2>Bienvenue sur notre site consacré à Budapest.</h2>
 

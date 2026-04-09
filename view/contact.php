@@ -27,6 +27,9 @@
 
                 <h2>Pour nous contacter</h2>
 
+                <?php
+                include ROOT_PATH . "/view/inc.menu"
+                ?>
                 <img class="imgContact" src="../img/contacts.jpg" alt="contact">
 
 
