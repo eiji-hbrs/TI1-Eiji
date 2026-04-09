@@ -72,8 +72,7 @@ nav a{
     color: black;
     justify-content: center;
     align-items: center;
-    padding-bottom: 5px;
-    
+    padding-bottom: 5px;  
 }
 
 nav a:hover{
@@ -126,12 +125,10 @@ main{
 
 /* liens de fin de page d'acceuil */
 .lienA {
-    text-align: center;
-}
-
-.lineA p{
-    display: inline-block;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
 }
 
 .lienA a{
@@ -155,26 +152,33 @@ a:hover{
 /* galerie */
 .galerie{
     display: flex;
-    flex-direction: column;
-    width: 45%;
+    width: 100%;
     height: auto;
-    margin: 0 auto;
     padding-top: 10px;
-    div{
-        display: flex;
-        gap : 20px;
-    }
 }
+
+.galL, .galR{
+    width: 50%;
+    margin: 10px;
+
+}
+
 .galerie-box{
     display: flex;
     flex-direction: column;
 
-}
-
-.galerie-box img{
+    img{
     border: solid 2px black;
+    width: 30vw;
+    margin: 0 auto;
 
+    }
+    p{
+        text-align: center;
+        margin: 10px auto;
+    }
 }
+
 /* contact */
 .formulaire{
     display: flex;
@@ -224,7 +228,6 @@ textarea{
 .lien-container a:hover{
     color: #a90331;
     text-decoration: none;
-
 }
 
 /* Erreur 404 */

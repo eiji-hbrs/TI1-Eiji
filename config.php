@@ -8,3 +8,4 @@ const ARRAY_VALID_PAGES = [
     "histoire",
     "liens",
 ];
+

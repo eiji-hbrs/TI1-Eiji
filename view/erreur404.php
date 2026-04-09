@@ -10,8 +10,7 @@
 <body>
     <div class="erreur404">
     <img class="imgErreur" src="./img/404.jpg" alt="erreur_404">
-
-    <a class="retourAcceuil" href="acceuil.php">Retour à la page d'acceuil</a>
+    <a class="retourAcceuil" href="./">Retour à la page d'accueil</a>
     </div>
 </body>
 </html>

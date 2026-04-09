@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Acceuil</title>
+    <title><?php echo ucfirst($_GET ['p'])?></title>
     <link rel="stylesheet" href="./css/style.css">
 </head>
 
@@ -26,7 +26,6 @@
                 <h2>Bienvenue sur notre site consacré à Budapest.</h2>
 
                 <img class="imgAcceuil" src="./img/armoiries.png" alt="armoiries">
-
 
                 <p>Budapest (prononcé [by.da.ˈpɛst] , hongrois : Budapest [ˈbu.dɒ.pɛʃt] Écouter ; allemand : Budapest ou
                     anciennement Ofen-Pesth) est la plus grande ville et la capitale de la Hongrie. Elle se situe en
