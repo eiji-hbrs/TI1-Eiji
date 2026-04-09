@@ -26,6 +26,10 @@
 
                 <h2>Quelques liens vers nos partenaires.</h2>
 
+                <?php
+                include ROOT_PATH . "/view/inc/menu-burger.php";
+                ?>
+
                 <img class="imgliens" src="../img/liens.jpg" alt="Liens">
 
                 <div class="lien-container">
@@ -60,6 +64,7 @@
             </div>
         </div>
     </main>
+    <script src="./js/script.js"></script>
 </body>
 
 </html>

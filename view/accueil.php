@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo ucfirst($_GET ['p'])?></title>
+    <title><?php echo ucfirst($_GET['p']) ?></title>
     <link rel="stylesheet" href="./css/style.css">
 </head>
 
@@ -15,15 +15,19 @@
         ?>
 
     </header>
-<main>
-    <div class="corpsDeText">
-        <?php
-        include ROOT_PATH . "/view/inc/menu-burger.php";
-        ?>
+    <main>
+        <div class="corpsDeText">
+            <?php
+            include ROOT_PATH . "/view/inc/menu.php";
+            ?>
 
-        <div class="corpsComplet">
-            
-                <h2>Bienvenue sur notre site consacré à Budapest.</h2>
+            <div class="corpsComplet">
+
+                <h2>Bienvenue sur notre site consacré à Budapest</h2>
+
+                <?php
+                include ROOT_PATH . "/view/inc/menu-burger.php";
+                ?>
 
                 <img class="imgAcceuil" src="./img/armoiries.png" alt="armoiries">
 
@@ -32,7 +36,7 @@
                     aval du coude du Danube entre le massif de Transdanubie et l'Alföld. Ses habitants sont les
                     Budapestois (en hongrois, budapesti, -ek).</p>
 
-                    <p>La ville actuelle est créée en 1873 par la fusion de Buda — alors capitale de la Hongrie — de Pest
+                <p>La ville actuelle est créée en 1873 par la fusion de Buda — alors capitale de la Hongrie — de Pest
                     et d'Óbuda1. Elle a pour origine le site d'Aquincum, un point de peuplement celte devenu capitale de
                     la Pannonie inférieure pendant l'époque romaine. Les Magyars arrivent dans la région au ixe siècle.
                     Leur premier point d'implantation est pillé par les Mongols en 1241-1242. La ville est reconstruite
@@ -45,12 +49,12 @@
                     République des conseils de Hongrie de 1919, de l'opération Panzerfaust en 1944, de la bataille de
                     Budapest de 1945 et de l'insurrection de 1956.</p>
 
-                    <p>Considérée comme l'une des plus belles villes d'Europe et comme la « perle » du Danube, son
+                <p>Considérée comme l'une des plus belles villes d'Europe et comme la « perle » du Danube, son
                     panorama, le quartier du château de Buda, l'avenue Andrássy et le métropolitain du Millénaire
                     figurent au patrimoine mondial de l'UNESCO. Destination touristique importante, la ville attire plus
                     de 4,3 millions de visiteurs par an11.</p>
 
-                    <P>Plus grande ville du pays, elle en est le principal centre politique, culturel, commercial et
+                <P>Plus grande ville du pays, elle en est le principal centre politique, culturel, commercial et
                     industriel. Elle abrite le Parlement hongrois, les bâtiments ministériels et les ambassades du pays
                     ainsi que les sièges sociaux des entreprises installées en Hongrie. Son ancien statut de cocapitale
                     de l'Autriche-Hongrie lui confère un rayonnement important dans la Mitteleuropa. La partition du
@@ -67,20 +71,23 @@
                     à l'est de Paris. La ville abrite le siège de l'Institut européen d'innovation et de technologie
                     (IET).</P>
 
-            <div class="lienA">
-                <p>Dans ce site, vous trouverez diverses informations concernant:</p>
-                <a href="./?pages=geographie" class="lienAcceuil">Une brève présentation de Budapset sur le rôle en
-                    Hongrie </a>
-                <a href="./?pages=histoire" class="lienAcceuil">Un rappel historique, de sa fondation à aujourd'hui</a>
-                <a href="./?pages=culture" class="lienAcceuil">Un tour d'horizon en matière d'art et de culture</a>
-                <a href="./?pages=galerie" class="lienAcceuil">Une galerie de photographies</a>
-                <a href="./?pages=contact" class="lienAcceuil"> Un formulaire pour nous contacter</a>
-                <a href="./?pages=liens" class="lienAcceuil">Des liens vers des sites partenaires</a>
+                <div class="lienA">
+                    <p>Dans ce site, vous trouverez diverses informations concernant:</p>
+                    <a href="./?pages=geographie" class="lienAcceuil">Une brève présentation de Budapset sur le rôle en
+                        Hongrie </a>
+                    <a href="./?pages=histoire" class="lienAcceuil">Un rappel historique, de sa fondation à
+                        aujourd'hui</a>
+                    <a href="./?pages=culture" class="lienAcceuil">Un tour d'horizon en matière d'art et de culture</a>
+                    <a href="./?pages=galerie" class="lienAcceuil">Une galerie de photographies</a>
+                    <a href="./?pages=contact" class="lienAcceuil"> Un formulaire pour nous contacter</a>
+                    <a href="./?pages=liens" class="lienAcceuil">Des liens vers des sites partenaires</a>
+                </div>
+                <a class="wiki" href="https://fr.wikipedia.org/wiki/Budapest">Sources : Wikipédia - Ville de
+                    Budapest</a>
             </div>
-            <a class="wiki" href="https://fr.wikipedia.org/wiki/Budapest">Sources : Wikipédia - Ville de Budapest</a>
         </div>
-    </div>
-    </main>    
+    </main>
+    <script src="./js/script.js"></script>
 </body>
 
 </html>

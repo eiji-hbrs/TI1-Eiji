@@ -28,7 +28,7 @@
                 <h2>Pour nous contacter</h2>
 
                 <?php
-                include ROOT_PATH . "/view/inc.menu"
+                include ROOT_PATH . "/view/inc/menu-burger.php"
                 ?>
                 <img class="imgContact" src="../img/contacts.jpg" alt="contact">
 
@@ -71,6 +71,7 @@
     </main>
     </div>
     </div>
+    <script src="./js/script.js"></script>
 </body>
 
 </html>

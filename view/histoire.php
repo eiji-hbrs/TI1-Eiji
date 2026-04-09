@@ -27,6 +27,10 @@
         <div class="corpsComplet">
             <h2>Histoire</h2>
 
+                <?php
+                include ROOT_PATH . "/view/inc/menu-burger.php";
+                ?>
+
             <img class="imgHist" src="../img/histoire.jpg" alt="Histoire">
 
             <p>Les villes de Pest et Buda étaient déjà désignées au début de la Renaissance comme une même entité,
@@ -187,6 +191,7 @@
     </main>
     </div>
 </div>
+<script src="./js/script.js"></script>
 </body>
 
 </html>

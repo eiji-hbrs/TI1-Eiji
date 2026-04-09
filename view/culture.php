@@ -23,6 +23,10 @@
             <div class="corpsComplet">
                 <h2>Art et culture</h2>
 
+                <?php
+                include ROOT_PATH . "/view/inc/menu-burger.php";
+                ?>
+
                 <img class="imgCulture" src="../img/culture.jpg" alt="Culture">
 
                 <p>Budapest compte un grand nombre de salles de cinéma, dont plusieurs établissements indépendants.
@@ -67,7 +71,7 @@
                     répertoire
                     plus léger.</p>
 
-                <p>Musées et galeries d'art</p>
+                <h3>Musées et galeries d'art</h3>
 
                 <p>La Hongrie fut si longtemps dirigée par des souverains étrangers que Budapest ne possède pas, à la
                     différence
@@ -119,7 +123,7 @@
                     musée des
                     transports selon son aspect d'origine.</p>
 
-                <p>Bibliothèques</p>
+                <h3>Bibliothèques</h3>
 
                 <p>Budapest abrite la Bibliothèque nationale Széchényi au cœur du Château de Buda. L'une de ses missions
                     est de
@@ -157,9 +161,9 @@
                     kapu), dans
                     le quartier du château de Buda, dans le 1er arrondissement.</p>
 
-                <p>Monuments historiques</p>
+                <h3>Monuments historiques</h3>
 
-                <p>Château de Vajdahunyad.</p><br>
+                <h4>Château de Vajdahunyad</h4><br>
                 le Margit-sziget s'étend sur le Danube entre le Árpád híd et le Margit híd ; cette île accueille des
                 terrains de
                 sport, la piscine Palatinus et un hôtel de haut standing. Elle est considérée comme un poumon vert du
@@ -187,7 +191,7 @@
                     excentré, n'en reste pas moins un espace de détente et de divertissement pour de nombreuses familles
                     budapestoises.</p>
 
-                <p>Cinématographie</p>
+                <h3>Cinématographie</h3>
 
                 <p>Les films les plus connus prenant Budapest pour décors sont Tűzoltó utca 25. (Le 25 de la rue des
                     Sapeurs
@@ -205,9 +209,10 @@
                     déroule à
                     Berlin-Est.</p>
 
-                <p>Personnalités liées à la ville</p>
+                <h3>Personnalités liées à la ville</h3>
 
-                <p>À Budapest sont nés :</p>
+                <h4>À Budapest sont nés :</h4>
+
                 <ul>
                     <li>Ignace Philippe Semmelweis (1818-1865), médecin obstétricien dit, "Le sauveur des mères"</li>
                     <li>Theodor Herzl (1860-1904), écrivain d'origine juive, théoricien du sionisme.</li>
@@ -242,9 +247,7 @@
                     <li>György Kovásznai (1934-1983), artiste contemporain.</li>
                     <li>Amrita Sher-Gil (1913-1941), peintre indienne.</li>
                     <li>Ilona Staller surnommée la « Cicciolina » (1951-), actrice de films pornographiques, chanteuse
-                        et femme
-                        politique italienne.
-                        politique italienne.</li>
+                        et femme politique italienne.</li>
                     <li>Klára Ungár (1958-), femme politique hongroise,</li>
                     <li>Károly Vekov (1947-), homme politique et historien.</li>
                     <li>Helga Váradi (1986-), musicienne classique</li>
@@ -252,9 +255,11 @@
                     <li>Ágnes Keleti (1921-), ancienne gymnaste hongroise.</li>
                     <li>Franz Jalics (1927-2021), Prêtre jésuite et écrivain hongrois.</li>
                 </ul>
+
     </main>
     </div>
     </div>
+    <script src="./js/script.js"></script>
 </body>
 
 </html>

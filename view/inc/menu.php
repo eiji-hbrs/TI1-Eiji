@@ -1,3 +1,4 @@
+<div class="menu">
 <nav>
         <ul>
             <li><a href="./">Acceuil</a></li>
@@ -9,3 +10,4 @@
             <li><a href="./?p=liens">Liens</a></li>
         </ul>  
 </nav>
+</div>

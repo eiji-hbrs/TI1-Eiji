@@ -24,6 +24,10 @@
             <div class="corpsComplet">
                 <h2>Galerie Photo</h2>
 
+                <?php
+                include ROOT_PATH . "/view/inc/menu-burger.php";
+                ?>
+
                 <div class="galerie">
                     <div class="galL">
                         <div class="galerie-box">
@@ -59,6 +63,7 @@
             </div>
         </div>
     </main>
+    <script src="./js/script.js"></script>
 </body>
 
 </html>
