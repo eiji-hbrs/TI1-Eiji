@@ -30,7 +30,7 @@
                 <?php
                 include ROOT_PATH . "/view/inc/menu-burger.php"
                 ?>
-                <img class="imgContact" src="../img/contacts.jpg" alt="contact">
+                <img class="imgContact" src="img/contacts.jpg" alt="contact">
 
 
                 <p>Pour nous laisser un comentaire ou pour obtenir un renseignement complémentaire, remplissez le
