@@ -32,7 +32,7 @@
                 include ROOT_PATH . "/view/inc/menu-burger.php";
                 ?>
 
-                <img class="imgGeo" src="../img/geographie.png" alt="geo">
+                <img class="imgGeo" src="img/geographie.png" alt="geo">
 
 
                 <p>Budapest est située entre plusieurs régions naturelles de Hongrie. À l'ouest s'étend le massif de

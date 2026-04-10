@@ -54,7 +54,7 @@
                             <p>Szabadság_híd</p>
                         </div>
                         <div class="galerie-box">
-                            <img src="./img/480px_Vajdahunyad_vára">
+                            <img src="img/480px_Vajdahunyad_vára">
                             <p>Vajdahunyad</p>
                         </div>
                     </div>

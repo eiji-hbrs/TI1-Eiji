@@ -31,7 +31,7 @@
                 include ROOT_PATH . "/view/inc/menu-burger.php";
                 ?>
 
-                <img class="imgHist" src="../img/histoire.jpg" alt="Histoire">
+                <img class="imgHist" src="img/histoire.jpg" alt="Histoire">
 
                 <p>Les villes de Pest et Buda étaient déjà désignées au début de la Renaissance comme une même entité,
                     capitale

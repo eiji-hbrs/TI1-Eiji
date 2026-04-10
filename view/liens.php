@@ -30,7 +30,7 @@
                 include ROOT_PATH . "/view/inc/menu-burger.php";
                 ?>
 
-                <img class="imgliens" src="../img/liens.jpg" alt="Liens">
+                <img class="imgliens" src="img/liens.jpg" alt="Liens">
 
                 <div class="lien-container">
                     <ul>

@@ -27,7 +27,7 @@
                 include ROOT_PATH . "/view/inc/menu-burger.php";
                 ?>
 
-                <img class="imgCulture" src="../img/culture.jpg" alt="Culture">
+                <img class="imgCulture" src="img/culture.jpg" alt="Culture">
 
                 <p>Budapest compte un grand nombre de salles de cinéma, dont plusieurs établissements indépendants.
                     Parmi les
