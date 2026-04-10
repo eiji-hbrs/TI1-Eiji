@@ -255,10 +255,10 @@
                     <li>Ágnes Keleti (1921-), ancienne gymnaste hongroise.</li>
                     <li>Franz Jalics (1927-2021), Prêtre jésuite et écrivain hongrois.</li>
                 </ul>
-
+            <a class="retour-haut-page" href="#entete"> ↑ </a>
+            </div>
+        </div>
     </main>
-    </div>
-    </div>
     <script src="./js/script.js"></script>
 </body>
 

@@ -88,9 +88,9 @@
                     assez
                     secs, et des étés chauds et humides.
                 </p>
+            </div>
+        </div>
     </main>
-    </div>
-    </div>
     <script src="./js/script.js"></script>
 </body>
 

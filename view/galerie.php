@@ -62,6 +62,7 @@
                 </div>
             </div>
         </div>
+        <a class="retour-haut-page" href="#entete"> ↑ </a>
     </main>
     <script src="./js/script.js"></script>
 </body>
